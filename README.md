@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
 
+## goals
+
+Test typescript + vite for a basic todo app (no backend)
+
+## vite readme
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
